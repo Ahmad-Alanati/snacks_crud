@@ -1,8 +1,8 @@
-# LAB - Class xx
+# LAB - Class 28
 
-## Project: Project Name Here
+## Project: snacks_crud_project
 
-## Author: Student/Group Name
+## Author: ahmad jehad alanati
 
 ### Links and Resources
 
@@ -13,7 +13,7 @@ PORT - 8000
 
 ### How to initialize/run your application
 
-e.g. python main.py
+python manage.py runserver
 
 ### How to use your library (where applicable)
 #### Tests
